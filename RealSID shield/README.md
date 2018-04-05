@@ -1,7 +1,7 @@
 RealSIDShield<br/>
 Version 1.0<br/>
 <br/>
-<img src="https://hackadaycom.files.wordpress.com/2011/06/sid.jpg" width="40%" height="40%"><br/>
+<img src="https://github.com/pappavis/EasyLab-retro-synth-Commodore-64/blob/master/RealSID%20shield/Pictures/Finished%20board%20mounted.JPG" width="40%" height="40%"><br/>
 Copyright (c) 2012,2013, A.T.Brask (atbrask[at]gmail[dot]com)<br/>
 <br/><br/>
 This is an Arduino shield that makes it easy to use a MOS Technology 6581/8580 SID chip (the famous C64 sound chip). This repository contains all necessary PCB design files as well as some photos and a bit of demonstration code. At some point I'll write a post about it on my blog at http://www.atbrask.dk/ with some further explanations and perhaps some audio/video examples.<br/>
